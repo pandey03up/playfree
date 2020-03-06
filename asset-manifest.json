@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/playfree/static/css/main.404cdb1b.chunk.css",
+    "main.js": "/playfree/static/js/main.6c4f3018.chunk.js",
+    "main.js.map": "/playfree/static/js/main.6c4f3018.chunk.js.map",
+    "runtime-main.js": "/playfree/static/js/runtime-main.89397ed1.js",
+    "runtime-main.js.map": "/playfree/static/js/runtime-main.89397ed1.js.map",
+    "static/js/2.8a8986d0.chunk.js": "/playfree/static/js/2.8a8986d0.chunk.js",
+    "static/js/2.8a8986d0.chunk.js.map": "/playfree/static/js/2.8a8986d0.chunk.js.map",
+    "index.html": "/playfree/index.html",
+    "precache-manifest.79c7cca3eb687aab5f16c42c7200e8f9.js": "/playfree/precache-manifest.79c7cca3eb687aab5f16c42c7200e8f9.js",
+    "service-worker.js": "/playfree/service-worker.js",
+    "static/css/main.404cdb1b.chunk.css.map": "/playfree/static/css/main.404cdb1b.chunk.css.map",
+    "static/js/2.8a8986d0.chunk.js.LICENSE.txt": "/playfree/static/js/2.8a8986d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89397ed1.js",
+    "static/js/2.8a8986d0.chunk.js",
+    "static/css/main.404cdb1b.chunk.css",
+    "static/js/main.6c4f3018.chunk.js"
+  ]
+}
